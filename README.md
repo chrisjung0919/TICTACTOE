@@ -12,10 +12,11 @@ A simple and fun Tic-Tac-Toe (X & O) game built using Python and the Tkinter GUI
   - Ties (with yellow highlight)
 - Restart button to play a new game instantly
 
-## 🖼️ Preview
+## 🖼️ Screenshots
 
-![Tic-Tac-Toe GUI Screenshot](#)  
-*Add a screenshot of your game here if possible!*
+![Tic-Tac-Toe Screenshot 1](tictactoe_screenshot_1.png)
+![Tic-Tac-Toe Screenshot 2](tictactoe_screenshot_2.png)
+![Tic-Tac-Toe Screenshot 3](tictactoe_screenshot_3.png)
 
 ## 🛠️ How to Run
 
