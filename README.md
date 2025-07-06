@@ -14,9 +14,9 @@ A simple and fun Tic-Tac-Toe (X & O) game built using Python and the Tkinter GUI
 
 ## 🖼️ Screenshots
 
-![Tic-Tac-Toe Screenshot 1](tictactoe_screenshot_1.png)
-![Tic-Tac-Toe Screenshot 2](tictactoe_screenshot_2.png)
-![Tic-Tac-Toe Screenshot 3](tictactoe_screenshot_3.png)
+<img src="tictactoe_screenshot_1.png" width="250"/>
+<img src="tictactoe_screenshot_2.png" width="250"/>
+<img src="tictactoe_screenshot_3.png" width="250"/>
 
 ## 🛠️ How to Run
 
